@@ -39,7 +39,7 @@ public class FlashcardQuizApp {
 
     // =====================================================
     // Block 3 — Constructor
-    // Initialises the deck, shuffles it, and builds the UI.
+    // Initializes the deck, shuffles it, and builds the UI.
     // =====================================================
     public FlashcardQuizApp() {
         deck = buildDeck();
